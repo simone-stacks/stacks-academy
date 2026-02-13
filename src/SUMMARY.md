@@ -2,8 +2,6 @@
 
 [Introduction](./introduction.md)
 
----
-
 # Part 1: Foundations
 
 - [SIP Landscape](./part-1-foundations/00-sip-landscape.md)
@@ -68,3 +66,10 @@
 - [Config Reference](./appendices/B-config-reference.md)
 - [Event Dispatcher](./appendices/C-event-dispatcher.md)
 - [Testing and Tools](./appendices/D-testing-and-tools.md)
+
+---
+
+# Resources
+
+- [Whitepaper](./whitepaper.md)
+- [Academy Slides](./slides.md)

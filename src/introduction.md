@@ -2,6 +2,11 @@
 
 A comprehensive guide to the `stacks-core` Rust codebase, covering every major subsystem from foundational types through Nakamoto consensus and the signer architecture.
 
+## Resources
+
+- [Stacks Whitepaper](whitepaper.md)
+- [Academy Slides](slides.md) *(February 2025 — some parts may be outdated)*
+
 ## How to Read This Book
 
 **If you are new to Stacks internals**, start with Part 1 (Foundations) in order. Chapter 0 maps every SIP to its implementing code, Chapter 1 gives you the map of the entire codebase, and Chapters 2-4 establish the vocabulary (types, names, genesis) used everywhere else.
