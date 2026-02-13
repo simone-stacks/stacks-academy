@@ -2,6 +2,8 @@
 
 A comprehensive deep-dive into the [stacks-core](https://github.com/stacks-network/stacks-core) Rust codebase (~609K lines across 11 crates), organized as an mdBook with 32 chapters and 4 appendices.
 
+**Read it online:** [simone-stacks.github.io/stacks-academy](https://simone-stacks.github.io/stacks-academy/)
+
 ## Upstream Sources
 
 This book was generated against specific commits of two upstream repositories:
