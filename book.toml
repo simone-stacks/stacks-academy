@@ -1,0 +1,8 @@
+[book]
+authors = ["Stacks Core Contributors"]
+language = "en"
+src = "src"
+title = "Stacks Core Academy"
+
+[output.html]
+git-repository-url = "https://github.com/stacks-academy/stacks-academy"
